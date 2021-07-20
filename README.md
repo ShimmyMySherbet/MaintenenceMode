@@ -14,3 +14,5 @@ This plugin acts as an example plugin for the **Moderation2 API**, and as such i
 
 # Download
 Download via <a href="https://github.com/ShimmyMySherbet/MaintenenceMode/releases">Releases</a>
+
+You can download the Moderation2 API and documentation <a href="https://moderation.shimmymysherbet.com/files/Moderation2.API.zip">here</a>
