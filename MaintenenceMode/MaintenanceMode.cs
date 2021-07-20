@@ -20,6 +20,7 @@ namespace MaintenenceMode
         public override void LoadPlugin()
         {
             base.LoadPlugin();
+            m_Instance = this;
 
             AccessRestrictor = new MaintenanceAccessRestrictor(this);
             AccessRestrictions.RegisterSingleton(AccessRestrictor);
